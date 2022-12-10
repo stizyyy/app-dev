@@ -8,7 +8,7 @@ Etiam vel nunc hendrerit leo convallis ullamcorper. Maecenas dapibus feugiat arc
 - Duis sem lectus, sagittis ut accumsan id, semper eu ipsum. 
 - Nunc sit amet odio ac lacus pellentesque venenatis sit amet eu mi. 
 
-Curabitur mollis a erat nec vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet pretium dui, vel tempus metus varius vitae. Proin sagittis, neque in venenatis ultricies, ante enim dapibus mi, id imperdiet purus nunc porta sem.
+Curabitur mollis a erat nec vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet pretium dui, vel tempus metus varius vitae. Proin sagittis, neque in venenatis ultricies, ante enim dapibus mi, id imperdiet purus nunc porta sems.
 
 [Just a meme.](https://i.pinimg.com/originals/a5/c3/f0/a5c3f030db3069211d4aa4a672d6c48e.jpg)
 
